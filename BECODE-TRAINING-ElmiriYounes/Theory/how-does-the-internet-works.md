@@ -28,3 +28,5 @@ When a client sends a packets to facebook.com for example, the router keeps this
 Internet is connected by more routers and the router of the client sends the packets to other router that sends to other router ect until reach the router of the recipient.   
 Maybe 20 routers are connected between the client and the recipient.   
 The routers use the IP addresses and their routing table to find the recipient.
+
+reviewed by Benhammou Bilal
